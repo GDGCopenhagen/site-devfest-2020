@@ -13,7 +13,7 @@
 
 ```bash
 git submodule init
-git submodule update themes/devfest-theme-hugo
+git submodule update themes/devfest-theme-hugo-2020
 ```
 
 ## Commit theme update
